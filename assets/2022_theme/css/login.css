@@ -1,0 +1,96 @@
+.login-box {
+	max-width: 600px;
+	margin: 0 auto;
+}
+.login-box-iner {
+	padding-top: 30px;
+}
+.form .input--lg {
+	margin-top: 16px;
+}
+.form .input--lg input{
+	height: 40px;
+}
+.form label {
+	font-size: 1.2rem;
+}
+.login-box .col-lg-12,.login-box  .col-md-12,.login-box  .col-sm-12 {
+	padding-right:0;
+    padding-left:0;
+}
+
+.login-html .sign-in, .login-html .sign-up, .login-form .group .check {
+    display: none;
+}
+.login-html .sign-in:checked + .tab, .login-html .sign-up:checked + .tab {
+    color: #EF5568;
+    border-bottom: #EF5568 3px solid;
+    text-align: center;
+}
+.login-html .tab {
+    font-size: 18px;
+    display: inline-block;
+    float: left;
+    width: 50%;
+    border-bottom: 1px solid #E8E8E8;
+    text-align: center;
+    box-sizing: border-box;
+    height: 66px;
+    line-height: 66px;
+    color: #B3B3B3;
+    margin-bottom: 0;
+}
+.login-form {
+    min-height: 650px;
+    position: relative;
+    perspective: 1000px;
+    transform-style: preserve-3d;
+    clear: both;
+}
+.login-form a {
+	font-size: 1.2rem;
+}
+.login-cancel {
+	line-height: 46px;
+	display: block;
+	margin: 16px 0;
+}
+.login-cancel a {
+	display: block;
+}
+.sign-in-htm,.sign-up-htm {
+	max-width: 80%;
+	margin: 0 auto;
+}
+
+
+@media (max-width: 768px) {
+	.sign-in-htm,.sign-up-htm {
+		max-width: 100%;
+	}
+}
+.login-html .sign-in-htm, .login-html .sign-up-htm {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    transform: rotateY(180deg);
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    transition: all .4s linear;
+    padding: 24px;
+}
+.login-html .sign-in:checked + .tab + .sign-up + .tab + .login-form .sign-in-htm {
+    transform: rotate(0);
+}
+.login-html .sign-up:checked + .tab + .login-form .sign-up-htm {
+    transform: rotate(0) ;
+    position: absolute;
+}
+
+.Sign-in-btn {
+	width: 100%;
+}

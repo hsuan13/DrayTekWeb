@@ -1,0 +1,56 @@
+/* Checkmark ONE */
+.info-box {
+  max-width: 600px;
+  margin: 0 auto;
+  display: flex;
+  height: 100vh;
+  align-items:center;
+    justify-content:center;
+}
+.info-box .course-item {
+  width: inherit;
+  min-height: 400px;
+}
+.success {
+  width: 25%;
+}
+.succes-text {
+  margin: 0;
+}
+.submit-block {
+  padding: 50px;
+  width: fit-content;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+}
+.success--scaleIn {
+  animation: scaleIn 1s ease-out forwards;
+}
+
+.success--solid__circle {
+  fill: #39B54A;
+}
+.success--solid__checkmark{
+  fill: #FFFFFF;
+}
+
+.success--line__circle {
+  // fill: #39B54A;
+}
+.success--line__checkmark{
+  fill: #39B54A;
+}
+
+@keyframes scaleIn {
+  0% {
+    transform: scale(0);
+  }
+  90% {
+    transform: scale(1.2);
+  }
+  100% {
+  transform: scale(1);
+  }
+}

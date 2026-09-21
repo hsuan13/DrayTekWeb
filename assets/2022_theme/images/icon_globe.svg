@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_globe</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Topnav" transform="translate(-1031.000000, -15.000000)" stroke="#4A4A4A" stroke-width="1.8">
+            <g id="icon_globe" transform="translate(1032.000000, 16.000000)">
+                <path d="M18.964,9.5146 C18.964,14.7336 14.733,18.9636 9.515,18.9636 C4.296,18.9636 0.066,14.7336 0.066,9.5146 C0.066,4.2956 4.296,0.0656 9.515,0.0656 C14.733,0.0656 18.964,4.2956 18.964,9.5146 Z" id="Stroke-1"></path>
+                <path d="M10.3375,18.7627 C7.6845,16.5047 6.0025,13.1417 6.0025,9.3857 C6.0025,5.7707 7.5615,2.5187 10.0445,0.2667" id="Stroke-3"></path>
+                <path d="M9.1808,0.4492 C11.5498,2.6912 13.0268,5.8662 13.0268,9.3862 C13.0268,12.7842 11.6498,15.8612 9.4228,18.0882" id="Stroke-5"></path>
+                <line x1="0.5" y1="9.5" x2="18.5" y2="9.5" id="Stroke-7"></line>
+            </g>
+        </g>
+    </g>
+</svg>

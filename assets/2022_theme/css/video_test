@@ -1,0 +1,1455 @@
+.s-u-max-w-360 {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right:auto
+}
+
+@media screen and (min-width: 360px) {
+    .s-u-max-w-360 {
+        max-width:360px
+    }
+}
+
+.s-u-max-w-440 {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right:auto
+}
+
+@media screen and (min-width: 440px) {
+    .s-u-max-w-440 {
+        max-width:440px
+    }
+}
+
+.s-u-max-w-520 {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right:auto
+}
+
+@media screen and (min-width: 520px) {
+    .s-u-max-w-520 {
+        max-width:520px
+    }
+}
+
+.s-u-max-w-680 {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right:auto
+}
+
+@media screen and (min-width: 680px) {
+    .s-u-max-w-680 {
+        max-width:680px
+    }
+}
+
+.s-u-max-w-840 {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right:auto
+}
+
+@media screen and (min-width: 840px) {
+    .s-u-max-w-840 {
+        max-width:840px
+    }
+}
+
+.s-u-max-w-1000 {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right:auto
+}
+
+@media screen and (min-width: 1000px) {
+    .s-u-max-w-1000 {
+        max-width:1000px
+    }
+}
+
+.s-u-max-w-1160 {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right:auto
+}
+
+@media screen and (min-width: 1160px) {
+    .s-u-max-w-1160 {
+        max-width:1160px
+    }
+}
+
+.s-u-max-w-1360 {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right:auto
+}
+
+@media screen and (min-width: 1360px) {
+    .s-u-max-w-1360 {
+        max-width:1360px
+    }
+}
+
+.s-u-max-w-1640 {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right:auto
+}
+
+@media screen and (min-width: 1640px) {
+    .s-u-max-w-1640 {
+        max-width:1640px
+    }
+}
+
+.s-u-bgc-gray-1 {
+    background-color:#f5f5f5
+}
+
+.s-u-bgc-gray-2 {
+    background-color:#e6e6e6
+}
+
+.s-u-bgc-gray-3 {
+    background-color:#cfcfcf
+}
+
+.s-u-bgc-gray-4 {
+    background-color:#b5b5b5
+}
+
+.s-u-bgc-gray-5 {
+    background-color:#8f8f8f
+}
+
+.s-u-bgc-gray-6 {
+    background-color:#666
+}
+
+.s-u-bgc-gray-7 {
+    background-color:#545454
+}
+
+.s-u-bgc-gray-8 {
+    background-color:#404040
+}
+
+.s-u-bgc-gray-9 {
+    background-color:#303030
+}
+
+.s-u-bgc-gray-10 {
+    background-color:#1c1c1c
+}
+
+.s-u-bgc-gray-1-5 {
+    background-color:rgba(245, 245, 245, 0.5)
+}
+
+.s-u-bgc-gray-2-5 {
+    background-color:rgba(230, 230, 230, 0.5)
+}
+
+.s-u-bgc-gray-3-5 {
+    background-color:rgba(207, 207, 207, 0.5)
+}
+
+.s-u-bgc-gray-4-5 {
+    background-color:rgba(181, 181, 181, 0.5)
+}
+
+.s-u-bgc-gray-5-5 {
+    background-color:rgba(143, 143, 143, 0.5)
+}
+
+.s-u-bgc-gray-6-5 {
+    background-color:rgba(102, 102, 102, 0.5)
+}
+
+.s-u-bgc-gray-7-5 {
+    background-color:rgba(84, 84, 84, 0.5)
+}
+
+.s-u-bgc-gray-8-5 {
+    background-color:rgba(64, 64, 64, 0.5)
+}
+
+.s-u-bgc-gray-9-5 {
+    background-color:rgba(48, 48, 48, 0.5)
+}
+
+.s-u-bgc-gray-10-5 {
+    background-color:rgba(28, 28, 28, 0.5)
+}
+
+.s-u-btn-fill-red-1 {
+    color: #2e3742;
+    background-color:#fff2f0
+}
+
+.s-u-btn-fill-red-1 path, .s-u-btn-fill-red-1 rect {
+    fill:#2e3742
+}
+
+.s-u-btn-fill-red-1:hover {
+    background-color:#ffc6bd
+}
+
+.s-u-btn-fill-red-2 {
+    color: #2e3742;
+    background-color:#ffe6e3
+}
+
+.s-u-btn-fill-red-2 path, .s-u-btn-fill-red-2 rect {
+    fill:#2e3742
+}
+
+.s-u-btn-fill-red-2:hover {
+    background-color:#ffb8b0
+}
+
+.s-u-btn-fill-red-3 {
+    color: #2e3742;
+    background-color:#ffc3bd
+}
+
+.s-u-btn-fill-red-3 path, .s-u-btn-fill-red-3 rect {
+    fill:#2e3742
+}
+
+.s-u-btn-fill-red-3:hover {
+    background-color:#ff958a
+}
+
+.s-u-btn-fill-red-4 {
+    color: #2e3742;
+    background-color:#ff968f
+}
+
+.s-u-btn-fill-red-4 path, .s-u-btn-fill-red-4 rect {
+    fill:#2e3742
+}
+
+.s-u-btn-fill-red-4:hover {
+    background-color:#ff665c
+}
+
+.s-u-btn-fill-red-5 {
+    color: #2e3742;
+    background-color:#fa6761
+}
+
+.s-u-btn-fill-red-5 path, .s-u-btn-fill-red-5 rect {
+    fill:#2e3742
+}
+
+.s-u-btn-fill-red-5:hover {
+    background-color:#f83730
+}
+
+.s-u-btn-fill-red-6 {
+    color: #2e3742;
+    background-color:#f53c3c
+}
+
+.s-u-btn-fill-red-6 path, .s-u-btn-fill-red-6 rect {
+    fill:#2e3742
+}
+
+.s-u-btn-fill-red-6:hover {
+    background-color:#f20c0c
+}
+
+.s-u-btn-fill-red-7 {
+    color: #fff;
+    background-color:#cf272d
+}
+
+.s-u-btn-fill-red-7 path, .s-u-btn-fill-red-7 rect {
+    fill:#fff
+}
+
+.s-u-btn-fill-red-7:hover {
+    background-color:#dd4c51
+}
+
+.s-u-btn-fill-red-8 {
+    color: #fff;
+    background-color:#a81821
+}
+
+.s-u-btn-fill-red-8 path, .s-u-btn-fill-red-8 rect {
+    fill:#fff
+}
+
+.s-u-btn-fill-red-8:hover {
+    background-color:#d51e2a
+}
+
+.s-u-btn-fill-red-9 {
+    color: #fff;
+    background-color:#820c18
+}
+
+.s-u-btn-fill-red-9 path, .s-u-btn-fill-red-9 rect {
+    fill:#fff
+}
+
+.s-u-btn-fill-red-9:hover {
+    background-color:#b11021
+}
+
+.s-u-btn-fill-red-10 {
+    color: #fff;
+    background-color:#4a060c
+}
+
+.s-u-btn-fill-red-10 path, .s-u-btn-fill-red-10 rect {
+    fill:#fff
+}
+
+.s-u-btn-fill-red-10:hover {
+    background-color:#790a14
+}
+
+.s-u-btn-fill-red-1-5 {
+    color: #2e3742;
+    background-color:rgba(255, 242, 240, 0.5)
+}
+
+.s-u-btn-fill-red-1-5 path, .s-u-btn-fill-red-1-5 rect {
+    fill:#2e3742
+}
+
+.s-u-btn-fill-red-1-5:hover {
+    background-color:rgba(255, 198, 189, 0.5)
+}
+
+.s-u-btn-fill-red-2-5 {
+    color: #2e3742;
+    background-color:rgba(255, 230, 227, 0.5)
+}
+
+.s-u-btn-fill-red-2-5 path, .s-u-btn-fill-red-2-5 rect {
+    fill:#2e3742
+}
+
+.s-u-btn-fill-red-2-5:hover {
+    background-color:rgba(255, 184, 176, 0.5)
+}
+
+.s-u-btn-fill-red-3-5 {
+    color: #2e3742;
+    background-color:rgba(255, 195, 189, 0.5)
+}
+
+.s-u-btn-fill-red-3-5 path, .s-u-btn-fill-red-3-5 rect {
+    fill:#2e3742
+}
+
+.s-u-btn-fill-red-3-5:hover {
+    background-color:rgba(255, 149, 138, 0.5)
+}
+
+.s-u-btn-fill-red-4-5 {
+    color: #2e3742;
+    background-color:rgba(255, 150, 143, 0.5)
+}
+
+.s-u-btn-fill-red-4-5 path, .s-u-btn-fill-red-4-5 rect {
+    fill:#2e3742
+}
+
+.s-u-btn-fill-red-4-5:hover {
+    background-color:rgba(255, 102, 92, 0.5)
+}
+
+.s-u-btn-fill-red-5-5 {
+    color: #2e3742;
+    background-color:rgba(250, 103, 97, 0.5)
+}
+
+.s-u-btn-fill-red-5-5 path, .s-u-btn-fill-red-5-5 rect {
+    fill:#2e3742
+}
+
+.s-u-btn-fill-red-5-5:hover {
+    background-color:rgba(248, 55, 48, 0.5)
+}
+
+.s-u-btn-fill-red-6-5 {
+    color: #2e3742;
+    background-color:rgba(245, 60, 60, 0.5)
+}
+
+.s-u-btn-fill-red-6-5 path, .s-u-btn-fill-red-6-5 rect {
+    fill:#2e3742
+}
+
+.s-u-btn-fill-red-6-5:hover {
+    background-color:rgba(242, 12, 12, 0.5)
+}
+
+.s-u-btn-fill-red-7-5 {
+    color: #fff;
+    background-color:rgba(207, 39, 45, 0.5)
+}
+
+.s-u-btn-fill-red-7-5 path, .s-u-btn-fill-red-7-5 rect {
+    fill:#fff
+}
+
+.s-u-btn-fill-red-7-5:hover {
+    background-color:rgba(221, 76, 81, 0.5)
+}
+
+.s-u-btn-fill-red-8-5 {
+    color: #fff;
+    background-color:rgba(168, 24, 33, 0.5)
+}
+
+.s-u-btn-fill-red-8-5 path, .s-u-btn-fill-red-8-5 rect {
+    fill:#fff
+}
+
+.s-u-btn-fill-red-8-5:hover {
+    background-color:rgba(213, 30, 42, 0.5)
+}
+
+.s-u-btn-fill-red-9-5 {
+    color: #fff;
+    background-color:rgba(130, 12, 24, 0.5)
+}
+
+.s-u-btn-fill-red-9-5 path, .s-u-btn-fill-red-9-5 rect {
+    fill:#fff
+}
+
+.s-u-btn-fill-red-9-5:hover {
+    background-color:rgba(177, 16, 33, 0.5)
+}
+
+.s-u-btn-fill-red-10-5 {
+    color: #fff;
+    background-color:rgba(74, 6, 12, 0.5)
+}
+
+.s-u-btn-fill-red-10-5 path, .s-u-btn-fill-red-10-5 rect {
+    fill:#fff
+}
+
+.s-u-btn-fill-red-10-5:hover {
+    background-color:rgba(121, 10, 20, 0.5)
+}
+
+.s-u-text-white {
+    color:#fff
+}
+
+.s-u-hide-xxs {
+    display:block
+}
+
+@media screen and (min-width: 576px) {
+    .s-u-hide-xxs {
+        display:none
+    }
+}
+
+.s-u-show-xxs {
+    display:none
+}
+
+@media screen and (min-width: 576px) {
+    .s-u-show-xxs {
+        display:block
+    }
+}
+
+.s-u-hide-flex-xxs {
+    display:flex
+}
+
+@media screen and (min-width: 576px) {
+    .s-u-hide-flex-xxs {
+        display:none
+    }
+}
+
+.s-u-show-flex-xxs {
+    display:none
+}
+
+@media screen and (min-width: 576px) {
+    .s-u-show-flex-xxs {
+        display:flex
+    }
+}
+
+.s-u-hide-xs {
+    display:block
+}
+
+@media screen and (min-width: 768px) {
+    .s-u-hide-xs {
+        display:none
+    }
+}
+
+.s-u-show-xs {
+    display:none
+}
+
+@media screen and (min-width: 768px) {
+    .s-u-show-xs {
+        display:block
+    }
+}
+
+.s-u-hide-flex-xs {
+    display:flex
+}
+
+@media screen and (min-width: 768px) {
+    .s-u-hide-flex-xs {
+        display:none
+    }
+}
+
+.s-u-show-flex-xs {
+    display:none
+}
+
+@media screen and (min-width: 768px) {
+    .s-u-show-flex-xs {
+        display:flex
+    }
+}
+
+.s-u-hide-sm {
+    display:block
+}
+
+@media screen and (min-width: 1024px) {
+    .s-u-hide-sm {
+        display:none
+    }
+}
+
+.s-u-show-sm {
+    display:none
+}
+
+@media screen and (min-width: 1024px) {
+    .s-u-show-sm {
+        display:block
+    }
+}
+
+.s-u-hide-flex-sm {
+    display:flex
+}
+
+@media screen and (min-width: 1024px) {
+    .s-u-hide-flex-sm {
+        display:none
+    }
+}
+
+.s-u-show-flex-sm {
+    display:none
+}
+
+@media screen and (min-width: 1024px) {
+    .s-u-show-flex-sm {
+        display:flex
+    }
+}
+
+.s-u-hide-md {
+    display:block
+}
+
+@media screen and (min-width: 1280px) {
+    .s-u-hide-md {
+        display:none
+    }
+}
+
+.s-u-show-md {
+    display:none
+}
+
+@media screen and (min-width: 1280px) {
+    .s-u-show-md {
+        display:block
+    }
+}
+
+.s-u-hide-flex-md {
+    display:flex
+}
+
+@media screen and (min-width: 1280px) {
+    .s-u-hide-flex-md {
+        display:none
+    }
+}
+
+.s-u-show-flex-md {
+    display:none
+}
+
+@media screen and (min-width: 1280px) {
+    .s-u-show-flex-md {
+        display:flex
+    }
+}
+
+.s-u-hide-lg {
+    display:block
+}
+
+@media screen and (min-width: 1440px) {
+    .s-u-hide-lg {
+        display:none
+    }
+}
+
+.s-u-show-lg {
+    display:none
+}
+
+@media screen and (min-width: 1440px) {
+    .s-u-show-lg {
+        display:block
+    }
+}
+
+.s-u-hide-flex-lg {
+    display:flex
+}
+
+@media screen and (min-width: 1440px) {
+    .s-u-hide-flex-lg {
+        display:none
+    }
+}
+
+.s-u-show-flex-lg {
+    display:none
+}
+
+@media screen and (min-width: 1440px) {
+    .s-u-show-flex-lg {
+        display:flex
+    }
+}
+
+.s-u-hide-xl {
+    display:block
+}
+
+@media screen and (min-width: 1680px) {
+    .s-u-hide-xl {
+        display:none
+    }
+}
+
+.s-u-show-xl {
+    display:none
+}
+
+@media screen and (min-width: 1680px) {
+    .s-u-show-xl {
+        display:block
+    }
+}
+
+.s-u-hide-flex-xl {
+    display:flex
+}
+
+@media screen and (min-width: 1680px) {
+    .s-u-hide-flex-xl {
+        display:none
+    }
+}
+
+.s-u-show-flex-xl {
+    display:none
+}
+
+@media screen and (min-width: 1680px) {
+    .s-u-show-flex-xl {
+        display:flex
+    }
+}
+
+.s-u-hide-xxl {
+    display:block
+}
+
+@media screen and (min-width: 1920px) {
+    .s-u-hide-xxl {
+        display:none
+    }
+}
+
+.s-u-show-xxl {
+    display:none
+}
+
+@media screen and (min-width: 1920px) {
+    .s-u-show-xxl {
+        display:block
+    }
+}
+
+.s-u-hide-flex-xxl {
+    display:flex
+}
+
+@media screen and (min-width: 1920px) {
+    .s-u-hide-flex-xxl {
+        display:none
+    }
+}
+
+.s-u-show-flex-xxl {
+    display:none
+}
+
+@media screen and (min-width: 1920px) {
+    .s-u-show-flex-xxl {
+        display:flex
+    }
+}
+
+.detail_WRX560 .heading {
+    min-height: 520px;
+    background-color:#000
+}
+
+@media screen and (min-width: 768px) {
+    .detail_WRX560 .heading .heading-tools-parent-ip .heading-tools {
+        position: absolute;
+        right: 0;
+        top: 0;
+        width:100%
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .detail_WRX560 .heading {
+        position: relative;
+        min-height:520px
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .detail_WRX560 .heading {
+        min-height:600px
+    }
+}
+
+@media screen and (min-width: 1680px) {
+    .detail_WRX560 .heading {
+        min-height:650px
+    }
+}
+
+@media screen and (min-width: 1920px) {
+    .detail_WRX560 .heading {
+        min-height:700px
+    }
+}
+
+@media screen and (min-width: 2100px) {
+    .detail_WRX560 .heading {
+        min-height:1080px
+    }
+}
+
+@media screen and (max-width: 767.8px) {
+    .detail_WRX560 .heading .tab_wrap ul.nav-tabs {
+        box-sizing: border-box;
+        left: 0;
+        overflow: hidden;
+        flex-wrap: nowrap;
+        padding: 0 8px;
+        width:100vw
+    }
+}
+
+.detail_WRX560 .heading .tab_wrap ul.nav-tabs > li > a {
+    color:#8f8f8f
+}
+
+.detail_WRX560 .heading .tab_wrap ul.nav-tabs > li > a:hover, .detail_WRX560 .heading .tab_wrap ul.nav-tabs > li.active > a {
+    color:#b5b5b5
+}
+
+.detail_WRX560 .heading .tab_wrap ul.nav-tabs > li.active > a {
+    border-bottom-color:#fa6761
+}
+
+@media screen and (max-width: 767.8px) {
+    .detail_WRX560 .heading .tab_wrap ul.nav-tabs > li {
+        padding-left: 8px;
+        padding-right: 8px;
+        white-space:nowrap
+    }
+}
+
+@media screen and (max-width: 767.8px) {
+    .detail_WRX560 .heading .tab_wrap ul.nav-tabs > li > a {
+        font-size:16px
+    }
+}
+
+@media screen and (max-width: 1023.8px) {
+    .detail_WRX560 .heading .heading-tools-parent-ip .heading-tools .btn {
+        color:#fff
+    }
+}
+
+.detail_WRX560 .heading .heading-tools-parent-ip .affix-dd-btn.lighter {
+    background-image: url("../../../img/affix_menu/icon_a_2200.png");
+    background-repeat:no-repeat
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5), all and(-o-min-device-pixel-ratio: 3 / 2), all and(min--moz-device-pixel-ratio: 1.5), all and(min-device-pixel-ratio: 1.5) {
+    .detail_WRX560 .heading .heading-tools-parent-ip .affix-dd-btn.lighter {
+        background-image: url("../../../img/affix_menu/icon_a_2200@2x.png")
+    }
+}
+
+@media screen and (max-width: 1023.8px) {
+    .detail_WRX560 .heading .heading-tools-parent-ip .heading-tools {
+        padding-top:0
+    }
+}
+
+@media screen and (max-width: 1023.8px) {
+    .detail_WRX560 .heading:not(.fix) .heading-tools-parent-ip {
+        margin-top: -40px;
+        margin-left: -64px;
+        margin-right:-64px
+    }
+}
+
+@media screen and (max-width: 1023.8px) and(max-width: 767.8px) {
+    .detail_WRX560 .heading:not(.fix) .heading-tools-parent-ip {
+        margin-top: -20px;
+        margin-left: -20px;
+        margin-right:-20px
+    }
+}
+
+@media screen and (max-width: 1023.8px) {
+    .detail_WRX560 .heading:not(.fix) .heading-tools-parent-ip .affix-dd-btn {
+        top: 20px;
+        right:32px
+    }
+
+    .detail_WRX560 .heading:not(.fix) .heading-tools-parent-ip .heading-tools {
+        background-color: rgba(0, 0, 0, 0.5);
+        padding-top:48px
+    }
+}
+
+.detail_WRX560 .banner__vid {
+    height:50vw
+}
+
+@media screen and (min-width: 768px) {
+    .detail_WRX560 .banner__vid {
+        height:auto
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .detail_WRX560 .banner__vid {
+        height:auto
+    }
+}
+
+.detail_WRX560 .banner__vid .s-video-container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    border-radius:0
+}
+
+.detail_WRX560 .banner__vid img, .detail_WRX560 .banner__vid video {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position:center bottom
+}
+
+@media screen and (min-width: 576px) and(max-width: 767.8px) {
+    .detail_WRX560 .banner__vid img, .detail_WRX560 .banner__vid video {
+        object-position:center 70%
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .detail_WRX560 .banner__vid img, .detail_WRX560 .banner__vid video {
+        object-position: right bottom;
+    }
+}
+
+@media (min-width: 768px) and(max-width: 1024px) {
+    .detail_WRX560 .banner__vid img, .detail_WRX560 .banner__vid video {
+        transform:scale(1.3) translate(-50px, -60px)
+    }
+}
+
+.detail_WRX560 .banner__intro {
+    position: absolute;
+    color: #fff;
+    bottom: 65%;
+    left: 50%;
+    width: 100%;
+    opacity: 1;
+    transform: translate(-50%, 0);
+    transition:opacity 1.5s 1s ease-in-out
+}
+
+@media screen and (min-width: 768px) {
+    .detail_WRX560 .banner__intro {
+        opacity: 0;
+        bottom: 65%;
+        left: 80px;
+        width: auto;
+        transform:translateX(0)
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .detail_WRX560 .banner__intro {
+        bottom:50%
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .detail_WRX560 .banner__intro {
+        left:100px
+    }
+}
+
+@media screen and (min-width: 1680px) {
+    .detail_WRX560 .banner__intro {
+        left:180px
+    }
+}
+
+.detail_WRX560 .banner__intro--active {
+    opacity:1
+}
+
+.detail_WRX560 .banner__intro h1 {
+    display: flex;
+    align-items: flex-start;
+    font-size: 70px;
+    line-height: 62px;
+    margin-bottom: 8px;
+    letter-spacing:-2px
+}
+
+@media screen and (max-width: 1279.8px) {
+    .detail_WRX560 .banner__intro h1 {
+        font-size:60px
+    }
+}
+
+@media screen and (max-width: 767.8px) {
+    .detail_WRX560 .banner__intro h1 {
+        font-size: 48px;
+        margin-bottom: 0;
+        justify-content:center
+    }
+}
+
+.detail_WRX560 .banner__intro span {
+    display:inline-flex
+}
+
+.detail_WRX560 .banner__intro span:last-child {
+    font-size: 16px;
+    line-height: 24px;
+    color: #191919;
+    background-color: #fff;
+    border-radius: 8px;
+    letter-spacing: 1px;
+    vertical-align: middle;
+    font-weight: 600;
+    padding: 3px 8px 3px 8px;
+    margin-left: 12px;
+    margin-bottom: 6px;
+    margin-top: 5px;
+    align-items:center
+}
+
+@media screen and (max-width: 1279.8px) {
+    .detail_WRX560 .banner__intro span:last-child {
+        margin-top:10px
+    }
+}
+
+@media screen and (max-width: 767.8px) {
+    .detail_WRX560 .banner__intro span:last-child {
+        margin-top:13px
+    }
+}
+
+.detail_WRX560 .banner__intro p {
+    font-size: 20px !important;
+    letter-spacing: 0;
+    font-weight: 600 !important;
+    margin-top:0 !important
+}
+
+@media screen and (max-width: 767.8px) {
+    .detail_WRX560 .banner__intro p {
+        text-align: center;
+        font-size:16px !important
+    }
+}
+
+.detail_WRX560 #tab_specs > section {
+    border-top:solid 1px rgba(207, 207, 207, 0.8)
+}
+
+.wrx560-section {
+    padding:52px 0
+}
+
+@media screen and (max-width: 1023.8px) {
+    .wrx560-coverage .s-section__intro {
+        margin-bottom:0
+    }
+}
+
+.wrx560-coverage .s-video-container {
+    border-radius:0
+}
+
+.wrx560-coverage__item4 {
+    text-align: center;
+    padding-bottom:80px
+}
+
+@media screen and (min-width: 768px) {
+    .wrx560-coverage__item4 {
+        padding-bottom:0
+    }
+}
+
+.wrx560-coverage__item4-img-group {
+    display: flex;
+    justify-content:center
+}
+
+.wrx560-coverage__item4-img {
+    position: relative;
+    width: 400px;
+    max-width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    overflow: hidden;
+    background-position: center;
+    background-size: cover;
+    margin-right: 20px;
+    margin-bottom: 32px;
+    opacity: 0;
+    transform:translate(0px, 30px)
+}
+
+@media screen and (min-width: 768px) {
+    .wrx560-coverage__item4-img {
+        height: 400px;
+        margin-right: 32px;
+        transform:translate(0px, 100px)
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .wrx560-coverage__item4-img {
+        height:500px
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .wrx560-coverage__item4-img {
+        height: 600px;
+        margin-right: 80px;
+        margin-bottom:64px
+    }
+}
+
+.wrx560-coverage__item4-img--2 {
+    transition:all .75s
+}
+
+.wrx560-coverage__item4-img--1, .wrx560-coverage__item4-img--3 {
+    transition: all 1s;
+    transition-delay:0.2s
+}
+
+.wrx560-coverage__item4-img--1:before, .wrx560-coverage__item4-img--3:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    z-index: 2;
+    transition: 1s;
+    transition-delay: 0.2s;
+    transform-origin: top;
+    transform:scaleY(1)
+}
+
+@media screen and (min-width: 768px) {
+    .wrx560-coverage__item4-img--1, .wrx560-coverage__item4-img--3 {
+        transition:all 1.3s
+    }
+
+    .wrx560-coverage__item4-img--1:before, .wrx560-coverage__item4-img--3:before {
+        transition:1.3s
+    }
+}
+
+.wrx560-coverage__item4-img.active {
+    transform: translate(0px, 0px);
+    opacity:1
+}
+
+.wrx560-coverage__item4-img--1.active:before, .wrx560-coverage__item4-img--3.active:before {
+    transform:scaleY(0)
+}
+
+.wrx560-coverage__item4-img--3 {
+    margin-right:0
+}
+
+.wrx560-coverage__item4-img--1 {
+    background-image: url("../../../img/products/detail/WRX560/coverage_item4_1.png");
+    background-repeat: no-repeat;
+    background-image: url("../../../img/products/detail/WRX560/coverage_item4_1.webp");
+    background-repeat:no-repeat
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5), all and(-o-min-device-pixel-ratio: 3 / 2), all and(min--moz-device-pixel-ratio: 1.5), all and(min-device-pixel-ratio: 1.5) {
+    .wrx560-coverage__item4-img--1 {
+        background-image: url("../../../img/products/detail/WRX560/coverage_item4_1@2x.png")
+    }
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5), all and(-o-min-device-pixel-ratio: 3 / 2), all and(min--moz-device-pixel-ratio: 1.5), all and(min-device-pixel-ratio: 1.5) {
+    .wrx560-coverage__item4-img--1 {
+        background-image: url("../../../img/products/detail/WRX560/coverage_item4_1@2x.webp")
+    }
+}
+
+.wrx560-coverage__item4-img--2 {
+    background-image: url("../../../img/products/detail/WRX560/coverage_item4_2.png");
+    background-repeat: no-repeat;
+    background-image: url("../../../img/products/detail/WRX560/coverage_item4_2.webp");
+    background-repeat:no-repeat
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5), all and(-o-min-device-pixel-ratio: 3 / 2), all and(min--moz-device-pixel-ratio: 1.5), all and(min-device-pixel-ratio: 1.5) {
+    .wrx560-coverage__item4-img--2 {
+        background-image: url("../../../img/products/detail/WRX560/coverage_item4_2@2x.png")
+    }
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5), all and(-o-min-device-pixel-ratio: 3 / 2), all and(min--moz-device-pixel-ratio: 1.5), all and(min-device-pixel-ratio: 1.5) {
+    .wrx560-coverage__item4-img--2 {
+        background-image: url("../../../img/products/detail/WRX560/coverage_item4_2@2x.webp")
+    }
+}
+
+@media screen and (max-width: 1023.8px) {
+    .wrx560-coverage__item4-img--2 {
+        background-position-x:18%
+    }
+}
+
+.wrx560-coverage__item4-img--3 {
+    background-image: url("../../../img/products/detail/WRX560/coverage_item4_3.png");
+    background-repeat: no-repeat;
+    background-image: url("../../../img/products/detail/WRX560/coverage_item4_3.webp");
+    background-repeat:no-repeat
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5), all and(-o-min-device-pixel-ratio: 3 / 2), all and(min--moz-device-pixel-ratio: 1.5), all and(min-device-pixel-ratio: 1.5) {
+    .wrx560-coverage__item4-img--3 {
+        background-image: url("../../../img/products/detail/WRX560/coverage_item4_3@2x.png")
+    }
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5), all and(-o-min-device-pixel-ratio: 3 / 2), all and(min--moz-device-pixel-ratio: 1.5), all and(min-device-pixel-ratio: 1.5) {
+    .wrx560-coverage__item4-img--3 {
+        background-image: url("../../../img/products/detail/WRX560/coverage_item4_3@2x.webp")
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .wrx560-controls .s-bnb-minor {
+        padding-left:0
+    }
+}
+
+.wrx560-controls .s-bnb-minor .s-bnb-img {
+    margin-left: 0;
+    margin-top:48px
+}
+
+@media screen and (min-width: 1024px) {
+    .wrx560-controls .s-bnb-minor .s-bnb-img {
+        margin-bottom:48px
+    }
+}
+
+.wrx560-controls .s-bnb-paragraph {
+    margin-top:64px
+}
+
+@media screen and (min-width: 1024px) {
+    .wrx560-controls .s-bnb-paragraph {
+        margin-top:72px
+    }
+}
+
+.wrx560-slide-group .s-tab-slide-tab {
+    padding-left:24px
+}
+
+.wrx560-slide-group .s-tab-slide-tab--active {
+    border-left:solid 3px #fa6761
+}
+
+.wrx560-environments .s-tab-slide-slide {
+    transition:none
+}
+
+.wrx560-mobile__qrcode-wrap {
+    display: flex;
+    text-align: center;
+    margin-top:24px
+}
+
+.wrx560-mobile__qrcode {
+    margin-right:40px
+}
+
+.wrx560-mobile__qrcode-text {
+    display: block;
+    margin-top:8px
+}
+
+.wrx560-mobile .s-qr-unit {
+    padding:8px
+}
+
+.wrx560-mobile .s-qr-unit canvas {
+    vertical-align:top
+}
+
+.wrx560-srm .s-learn-more {
+    color:#fa6761
+}
+
+.wrx560-routers__learn-more {
+    margin-top:32px
+}
+
+.wrx560-routers .s-feat-col-item {
+    display: flex;
+    flex-flow: column;
+    justify-content:space-between
+}
+
+.wrx560-faq .s-collapse__group--active .s-collapse__group__title::after {
+    transition: all .3s;
+    background-image: url("../../../img/products/detail/WRX560/icon_collapse_arrow_top.png");
+    background-repeat:no-repeat
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5), all and(-o-min-device-pixel-ratio: 3 / 2), all and(min--moz-device-pixel-ratio: 1.5), all and(min-device-pixel-ratio: 1.5) {
+    .wrx560-faq .s-collapse__group--active .s-collapse__group__title::after {
+        background-image: url("../../../img/products/detail/WRX560/icon_collapse_arrow_top@2x.png")
+    }
+}
+
+.wrx560-cards .s-cards-item__text {
+    background-color: #000;
+    color:#fff
+}
+
+.wrx560-cards .s-cards-item {
+    background-size:cover
+}
+
+.wrx560-cards .s-cards-item__image--1 {
+    background-image: url("../../../img/products/detail/WRX560/card_1.png");
+    background-repeat: no-repeat;
+    background-image: url("../../../img/products/detail/WRX560/card_1.webp");
+    background-repeat:no-repeat
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5), all and(-o-min-device-pixel-ratio: 3 / 2), all and(min--moz-device-pixel-ratio: 1.5), all and(min-device-pixel-ratio: 1.5) {
+    .wrx560-cards .s-cards-item__image--1 {
+        background-image: url("../../../img/products/detail/WRX560/card_1@2x.png")
+    }
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5), all and(-o-min-device-pixel-ratio: 3 / 2), all and(min--moz-device-pixel-ratio: 1.5), all and(min-device-pixel-ratio: 1.5) {
+    .wrx560-cards .s-cards-item__image--1 {
+        background-image: url("../../../img/products/detail/WRX560/card_1@2x.webp")
+    }
+}
+
+.wrx560-cards .s-cards-item__image--2 {
+    background-image: url("../../../img/products/detail/WRX560/card_2.png");
+    background-repeat: no-repeat;
+    background-image: url("../../../img/products/detail/WRX560/card_2.webp");
+    background-repeat:no-repeat
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5), all and(-o-min-device-pixel-ratio: 3 / 2), all and(min--moz-device-pixel-ratio: 1.5), all and(min-device-pixel-ratio: 1.5) {
+    .wrx560-cards .s-cards-item__image--2 {
+        background-image: url("../../../img/products/detail/WRX560/card_2@2x.png")
+    }
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5), all and(-o-min-device-pixel-ratio: 3 / 2), all and(min--moz-device-pixel-ratio: 1.5), all and(min-device-pixel-ratio: 1.5) {
+    .wrx560-cards .s-cards-item__image--2 {
+        background-image: url("../../../img/products/detail/WRX560/card_2@2x.webp")
+    }
+}
+
+.wrx560-cards .s-cards-item__image--3 {
+    background-image: url("../../../img/products/detail/WRX560/card_3.png");
+    background-repeat: no-repeat;
+    background-image: url("../../../img/products/detail/WRX560/card_3.webp");
+    background-repeat:no-repeat
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5), all and(-o-min-device-pixel-ratio: 3 / 2), all and(min--moz-device-pixel-ratio: 1.5), all and(min-device-pixel-ratio: 1.5) {
+    .wrx560-cards .s-cards-item__image--3 {
+        background-image: url("../../../img/products/detail/WRX560/card_3@2x.png")
+    }
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5), all and(-o-min-device-pixel-ratio: 3 / 2), all and(min--moz-device-pixel-ratio: 1.5), all and(min-device-pixel-ratio: 1.5) {
+    .wrx560-cards .s-cards-item__image--3 {
+        background-image: url("../../../img/products/detail/WRX560/card_3@2x.webp")
+    }
+}
+
+.wrx560-cards .s-learn-more {
+    color:#fa6761
+}
+
+.wrx560-cards .s-learn-more--arrow rect {
+    fill:#fa6761
+}
+
+.wrx560-avai__countries-table .s-collapse__group--active .wrx560-avai__countries-table__title svg rect {
+    fill:#fa6761
+}
+
+.wrx560-signup {
+    background-color: #000;
+    color:#fff
+}
+
+.wrx560-signup .s-bnb-major, .wrx560-signup .s-bnb-minor {
+    min-height:inherit
+}
+
+@media screen and (min-width: 1440px) {
+    .wrx560-signup .s-bnb-major, .wrx560-signup .s-bnb-minor {
+        padding-top: 64px;
+        padding-bottom:64px
+    }
+}
+
+@media screen and (max-width: 1023.8px) {
+    .wrx560-signup .s-bnb-major {
+        padding-top: 32px;
+        padding-bottom:32px
+    }
+}
+
+.wrx560-signup .s-bnb-major .s-bnb-paragraph {
+    margin-top:0
+}
+
+@media screen and (max-width: 1023.8px) {
+    .wrx560-signup .s-bnb-minor {
+        padding-bottom:32px
+    }
+}
+
+.wrx560-signup__wrapper {
+    text-decoration: none;
+    cursor:pointer
+}
+
+.wrx560-signup__form {
+    display: flex;
+    width:100%
+}
+
+.wrx560-signup__form p {
+    margin-top:0
+}
+
+@media screen and (max-width: 1023.8px) {
+    .wrx560-signup__form p {
+        padding:12px
+    }
+}
+
+.wrx560-signup__form p:first-child {
+    padding: 18px;
+    background-color: #fff;
+    color: #b5b5b5;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow:ellipsis
+}
+
+@media (min-width: 568px) {
+    .wrx560-signup__form p:first-child {
+        margin-right:15px
+    }
+}
+
+.wrx560-signup__form p:last-child {
+    white-space: nowrap;
+    flex-shrink: 0;
+    min-width: 125px;
+    padding: 18px;
+    background-color: #fa6761;
+    color: #fff;
+    box-sizing: border-box;
+    text-align: center
+}
+

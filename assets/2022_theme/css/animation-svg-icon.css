@@ -1,0 +1,183 @@
+/* ANIMATION SVG ICON */
+svg.line-svg{
+	margin-top:-30px;
+}
+svg.line-svg line.line-1{
+}
+svg.line-svg line{
+	stroke-dasharray: 0 50;
+}
+svg.line-svg.start-paint line{
+	stroke-dasharray: 50 0;
+	animation-fill-mode: forwards;
+	-webkit-animation-fill-mode: forwards;
+	animation: left-paint-line-svg 5s cubic-bezier(0, 0.5, 0.17, 1) 1;
+	-webkit-animation: left-paint-line-svg 5s cubic-bezier(0, 0.5, 0.17, 1) 1;
+}
+@keyframes left-paint-line-svg {
+	from {
+	  stroke-dasharray: 0 50;
+	}
+	to {
+	  stroke-dasharray: 50 0;
+	}
+}
+@-webkit-keyframes left-paint-line-svg {
+	from {
+	  stroke-dasharray: 0 50;
+	}
+	to {
+	  stroke-dasharray: 50 0;
+	}
+}
+
+
+/* ICON 1 */
+
+.icon-feature-svg svg#icon-1 path,
+.icon-feature-svg svg#icon-1 path
+{
+	stroke-dasharray: 50 200;
+}
+
+.icon-feature-svg svg#icon-1 path.start-paint,
+.icon-feature-svg svg#icon-1 path.start-paint
+{
+	animation: dash-polyline 2s linear 1;
+	-webkit-animation: dash-polyline 2s linear 1;
+	animation-fill-mode: forwards;
+	-webkit-animation-fill-mode: forwards;
+}
+
+
+}
+/* ICON 2 */
+
+.icon-feature-svg svg#icon-2 path,
+.icon-feature-svg svg#icon-2 path,
+.icon-feature-svg svg#icon-2 path,
+.icon-feature-svg svg#icon-2 path,
+.icon-feature-svg svg#icon-2 path
+{
+	stroke-dasharray: 0 50;
+}
+
+.icon-feature-svg svg#icon-2 path.start-paint,
+.icon-feature-svg svg#icon-2 path.start-paint,
+.icon-feature-svg svg#icon-2 path.start-paint,
+.icon-feature-svg svg#icon-2 path.start-paint,
+.icon-feature-svg svg#icon-2 path.start-paint
+{
+	animation: dash-polyline 2s linear 1;
+	-webkit-animation: dash-polyline 2s linear 1;
+	animation-fill-mode: forwards;
+	-webkit-animation-fill-mode: forwards;
+}
+/* ICON 3 */
+.icon-feature-svg svg#icon-3 path,
+.icon-feature-svg svg#icon-3 path
+{
+	stroke-dasharray: 0 50;
+}
+
+.icon-feature-svg svg#icon-3 path.start-paint,
+.icon-feature-svg svg#icon-3 path.start-paint
+{
+	animation: dash-polyline 2s linear 1;
+	-webkit-animation: dash-polyline 2s linear 1;
+	animation-fill-mode: forwards;
+	-webkit-animation-fill-mode: forwards;
+}
+/* ICON 4 */
+.icon-feature-svg svg#icon-4 path,
+.icon-feature-svg svg#icon-4 path,
+.icon-feature-svg svg#icon-4 path
+{
+	stroke-dasharray: 0 50;
+}
+
+.icon-feature-svg svg#icon-4 path.start-paint,
+.icon-feature-svg svg#icon-4 path.start-paint,
+.icon-feature-svg svg#icon-4 path.start-paint
+{
+	animation: dash-polyline 2s linear 1;
+	-webkit-animation: dash-polyline 2s linear 1;
+	animation-fill-mode: forwards;
+	-webkit-animation-fill-mode: forwards;
+}
+/* ICON 5 */
+.icon-feature-svg svg#icon-5 path,
+.icon-feature-svg svg#icon-5 path,
+.icon-feature-svg svg#icon-5 path,
+.icon-feature-svg svg#icon-5 path,
+.icon-feature-svg svg#icon-5 path
+{
+	stroke-dasharray: 0 50;
+}
+
+.icon-feature-svg svg#icon-5 path.start-paint,
+.icon-feature-svg svg#icon-5 path.start-paint,
+.icon-feature-svg svg#icon-5 path.start-paint,
+.icon-feature-svg svg#icon-5 path.start-paint,
+.icon-feature-svg svg#icon-5 path.start-paint
+{
+	animation: dash-polyline 2s linear 1;
+	-webkit-animation: dash-polyline 2s linear 1;
+	animation-fill-mode: forwards;
+	-webkit-animation-fill-mode: forwards;
+}
+/* ICON 6 */
+.icon-feature-svg svg#icon-6 path,
+.icon-feature-svg svg#icon-6 path,
+.icon-feature-svg svg#icon-6 path,
+.icon-feature-svg svg#icon-6 path,
+.icon-feature-svg svg#icon-6 path
+{
+	stroke-dasharray: 0 50;
+}
+
+.icon-feature-svg svg#icon-6 path.start-paint,
+.icon-feature-svg svg#icon-6 path.start-paint,
+.icon-feature-svg svg#icon-6 path.start-paint,
+.icon-feature-svg svg#icon-6 path.start-paint,
+.icon-feature-svg svg#icon-6 path.start-paint
+{
+	animation: dash-polyline 2s linear 1;
+	-webkit-animation: dash-polyline 2s linear 1;
+	animation-fill-mode: forwards;
+	-webkit-animation-fill-mode: forwards;
+}
+
+@keyframes dash {
+	from {
+	  stroke-dasharray: 0 19;
+	}
+	to {
+	  stroke-dasharray: 19 0;
+	}
+}
+@-webkit-keyframes dash {
+	from {
+	  stroke-dasharray: 0 19;
+	}
+	to {
+	  stroke-dasharray: 19 0;
+	}
+}
+@keyframes dash-polyline{
+	from {
+	  stroke-dasharray: 0 52;
+	}
+	to {
+	  stroke-dasharray: 52 0;
+	}
+}
+@-webkit-keyframes dash-polyline {
+	from {
+	  stroke-dasharray: 0 52;
+	}
+	to {
+	  stroke-dasharray: 52 0;
+	}
+}
+

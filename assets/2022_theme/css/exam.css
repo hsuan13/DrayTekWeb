@@ -1,0 +1,223 @@
+html {
+    image-rendering: -webkit-optimize-contrast;
+}
+.exam_info_list {
+	display: grid;
+    grid-auto-flow: dense;
+    grid-gap: 16px 32px;
+    grid-auto-rows: 1fr;
+    grid-template-columns: repeat(2,1fr);
+    padding: 20px 24px 30px;
+}
+.exam_info_list.inner-result{
+	border: 1px solid #ededff;
+    background: #f4f4f4;
+    border-radius: 10px;
+    padding: 26px 34px;
+    grid-gap: 12px 32px;
+}
+.exam_result_info {
+	display: flex;
+	justify-content: space-evenly;
+	padding: 0 40px 40px;
+	/*grid-template-columns: repeat(3,1fr);*/
+	margin: 0 -40px;
+	border-bottom: 1px solid #dedede;
+}
+.exam_result_info .exam_info {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.exam_result_info .exam_info label {
+	min-width: auto;
+}
+.exam_result_info .exam_info span {
+	font-size: 3rem;
+	margin-top: 20px;
+}
+.exam_info {
+	font-size: 15px;
+	line-height: 2.6rem;
+}
+.exam_info label{
+	min-width: 130px;
+	margin-bottom: 0;
+}
+.exam_info span	{
+	color: #a9a9a9;
+	display: inline-block;
+}
+span.result-pass {
+	color: #51dfcf;
+}
+.exam_rules dl,.exam_rules ol,.exam_rules ul {
+	margin-bottom: 0;
+	font-size: 15px;
+	line-height: 2.6rem;
+}
+.exam_rules p {
+	margin-bottom: 15px;
+}
+.exam_rules h4 {
+	margin: 20px 0;
+}
+.exam_rules sub {
+	font-size: 14px;
+    color: #a4a4a4;
+}
+.signature_file {
+	font-size: 1.3rem;
+    margin: 24px 0;
+    font-weight: 500;
+    text-align: right;
+}
+.radio {
+	font-size:15px;
+}
+hr {
+	margin:10px 0 0;
+	border-top: 1px solid #dedede;
+}
+.exam-table {
+	border-top: 1px solid #dedede;
+	margin-bottom: 30px;
+}
+.back_btn {
+	display: inline-block;
+	background:transparent;
+	color: #FF8695;
+	min-width: 120px;
+}
+.back_btn_icon {
+	padding-left: 50px;
+}
+.back_btn_icon::before {
+	content: url(../images/arrow-left.svg);
+    position: absolute;
+    left: 12px;
+    top: 7px;
+}
+.option {
+	font-size: 1.15rem;
+	line-height: 0.8rem;
+}
+.option .radio {
+	padding: 0;
+}
+.option .radio .show-box{
+	position: relative;
+}
+.option td {
+	padding: 2px 10px;
+}
+.bg-success {
+	background: #e4faf587!important;
+	color: #5e988b;
+}
+.question-no {
+	font-weight: 500;
+	line-height: 2.4rem;
+	font-size: 1.4rem;
+	margin: 24px 0 20px;
+	color: #ef5568;
+}
+.question {
+	line-height: 2.4rem;
+	font-size:1.2rem;
+	margin:0 0 12px 12px;
+}
+.question-img {
+	text-align: center;
+	max-width: 100%;
+}
+.answer {
+	text-align: center;
+}
+.exam-submit{
+	padding-top: 44px;
+	margin:30px -40px 0;
+	border-top: 1px solid #dedede;
+}
+tr td.answer {
+	width: 60px;
+	line-height: 2.8rem;
+	vertical-align: top;
+}
+.answer .radio {
+	margin: 0;
+}
+.answer .radio .show-box{
+	top: 4px;
+}
+.answer-text {
+	line-height: 2.4rem;
+}
+.question-info {
+	max-width: 100%;
+}
+.explain {
+	text-align: center;
+}
+.answer-text img {
+	max-width: 100%;
+}
+.single-services-item {
+	background-color: #fcfcfc;
+}
+@media (max-width: 1024px) {
+	.exam_info_list,.exam_result_info {
+		display: flex;
+    	flex-direction: column;
+	}
+	.exam_info label {
+		width: 100%;
+	}
+	.exam_result_info .exam_info {
+		padding-top: 20px;
+	}
+}
+
+
+.page-item {
+	box-sizing: border-box;
+    display: inline-block;
+    margin-left: 4px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    text-decoration: none !important;
+    cursor: pointer;
+    color: #BCBCBC !important;
+    background: #FAFAFA;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    font-size: 14px;
+    line-height: 30px;
+}
+.page-link {
+	box-sizing: border-box;
+	width: 30px;
+    height: 30px;
+	color: #BCBCBC !important;
+	background: #eeeeee;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    font-size: 14px;
+
+}
+.page-link:hover {
+	color: #FFF !important;
+    background-color: #CACACA;
+    border: 1px solid #CACACA;
+     vertical-align: middle;
+}
+.page-item.active .page-link {
+	color: #FFF !important;
+	width: 30px;
+    height: 30px;
+    background-color: #FF8695;
+    border: 1px solid #FF8695;.btn.btn--sm
+}
